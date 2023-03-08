@@ -1,0 +1,15 @@
+/home/maks/Документы/dzgb/Программирование С#/P4/Zadacha_1/bin/Debug/net6.0/Zadacha_1
+/home/maks/Документы/dzgb/Программирование С#/P4/Zadacha_1/bin/Debug/net6.0/Zadacha_1.deps.json
+/home/maks/Документы/dzgb/Программирование С#/P4/Zadacha_1/bin/Debug/net6.0/Zadacha_1.runtimeconfig.json
+/home/maks/Документы/dzgb/Программирование С#/P4/Zadacha_1/bin/Debug/net6.0/Zadacha_1.dll
+/home/maks/Документы/dzgb/Программирование С#/P4/Zadacha_1/bin/Debug/net6.0/ref/Zadacha_1.dll
+/home/maks/Документы/dzgb/Программирование С#/P4/Zadacha_1/bin/Debug/net6.0/Zadacha_1.pdb
+/home/maks/Документы/dzgb/Программирование С#/P4/Zadacha_1/obj/Debug/net6.0/Zadacha_1.csproj.AssemblyReference.cache
+/home/maks/Документы/dzgb/Программирование С#/P4/Zadacha_1/obj/Debug/net6.0/Zadacha_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/maks/Документы/dzgb/Программирование С#/P4/Zadacha_1/obj/Debug/net6.0/Zadacha_1.AssemblyInfoInputs.cache
+/home/maks/Документы/dzgb/Программирование С#/P4/Zadacha_1/obj/Debug/net6.0/Zadacha_1.AssemblyInfo.cs
+/home/maks/Документы/dzgb/Программирование С#/P4/Zadacha_1/obj/Debug/net6.0/Zadacha_1.csproj.CoreCompileInputs.cache
+/home/maks/Документы/dzgb/Программирование С#/P4/Zadacha_1/obj/Debug/net6.0/Zadacha_1.dll
+/home/maks/Документы/dzgb/Программирование С#/P4/Zadacha_1/obj/Debug/net6.0/ref/Zadacha_1.dll
+/home/maks/Документы/dzgb/Программирование С#/P4/Zadacha_1/obj/Debug/net6.0/Zadacha_1.pdb
+/home/maks/Документы/dzgb/Программирование С#/P4/Zadacha_1/obj/Debug/net6.0/Zadacha_1.genruntimeconfig.cache
