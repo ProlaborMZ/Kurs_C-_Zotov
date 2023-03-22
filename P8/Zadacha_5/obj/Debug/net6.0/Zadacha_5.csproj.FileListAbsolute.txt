@@ -1,0 +1,15 @@
+/home/maks/Документы/dzgb/Программирование С#/P8/Zadacha_5/bin/Debug/net6.0/Zadacha_5
+/home/maks/Документы/dzgb/Программирование С#/P8/Zadacha_5/bin/Debug/net6.0/Zadacha_5.deps.json
+/home/maks/Документы/dzgb/Программирование С#/P8/Zadacha_5/bin/Debug/net6.0/Zadacha_5.runtimeconfig.json
+/home/maks/Документы/dzgb/Программирование С#/P8/Zadacha_5/bin/Debug/net6.0/Zadacha_5.dll
+/home/maks/Документы/dzgb/Программирование С#/P8/Zadacha_5/bin/Debug/net6.0/ref/Zadacha_5.dll
+/home/maks/Документы/dzgb/Программирование С#/P8/Zadacha_5/bin/Debug/net6.0/Zadacha_5.pdb
+/home/maks/Документы/dzgb/Программирование С#/P8/Zadacha_5/obj/Debug/net6.0/Zadacha_5.csproj.AssemblyReference.cache
+/home/maks/Документы/dzgb/Программирование С#/P8/Zadacha_5/obj/Debug/net6.0/Zadacha_5.GeneratedMSBuildEditorConfig.editorconfig
+/home/maks/Документы/dzgb/Программирование С#/P8/Zadacha_5/obj/Debug/net6.0/Zadacha_5.AssemblyInfoInputs.cache
+/home/maks/Документы/dzgb/Программирование С#/P8/Zadacha_5/obj/Debug/net6.0/Zadacha_5.AssemblyInfo.cs
+/home/maks/Документы/dzgb/Программирование С#/P8/Zadacha_5/obj/Debug/net6.0/Zadacha_5.csproj.CoreCompileInputs.cache
+/home/maks/Документы/dzgb/Программирование С#/P8/Zadacha_5/obj/Debug/net6.0/Zadacha_5.dll
+/home/maks/Документы/dzgb/Программирование С#/P8/Zadacha_5/obj/Debug/net6.0/ref/Zadacha_5.dll
+/home/maks/Документы/dzgb/Программирование С#/P8/Zadacha_5/obj/Debug/net6.0/Zadacha_5.pdb
+/home/maks/Документы/dzgb/Программирование С#/P8/Zadacha_5/obj/Debug/net6.0/Zadacha_5.genruntimeconfig.cache
