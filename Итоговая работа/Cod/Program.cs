@@ -3,7 +3,7 @@
 //либо задать на старте выполнения алгоритма. 
 Console.Clear();
 string[] array1 = new string[5] {"computer science", "23", ":-)", "world", "1"};
-string[] array2 = new string[5];
+string[] array2 = new string[array1.Length];
 PrintArray(array1, "Ваш заданный массив:");
 Result(array1, array2);
 PrintArray(array2, "Ваш новый массив:");
