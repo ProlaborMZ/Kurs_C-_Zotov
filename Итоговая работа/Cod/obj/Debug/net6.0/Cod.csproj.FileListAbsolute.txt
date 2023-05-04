@@ -1,0 +1,15 @@
+/home/maks/Документы/dzgb/Программирование С#/Итоговая работа/Cod/bin/Debug/net6.0/Cod
+/home/maks/Документы/dzgb/Программирование С#/Итоговая работа/Cod/bin/Debug/net6.0/Cod.deps.json
+/home/maks/Документы/dzgb/Программирование С#/Итоговая работа/Cod/bin/Debug/net6.0/Cod.runtimeconfig.json
+/home/maks/Документы/dzgb/Программирование С#/Итоговая работа/Cod/bin/Debug/net6.0/Cod.dll
+/home/maks/Документы/dzgb/Программирование С#/Итоговая работа/Cod/bin/Debug/net6.0/ref/Cod.dll
+/home/maks/Документы/dzgb/Программирование С#/Итоговая работа/Cod/bin/Debug/net6.0/Cod.pdb
+/home/maks/Документы/dzgb/Программирование С#/Итоговая работа/Cod/obj/Debug/net6.0/Cod.csproj.AssemblyReference.cache
+/home/maks/Документы/dzgb/Программирование С#/Итоговая работа/Cod/obj/Debug/net6.0/Cod.GeneratedMSBuildEditorConfig.editorconfig
+/home/maks/Документы/dzgb/Программирование С#/Итоговая работа/Cod/obj/Debug/net6.0/Cod.AssemblyInfoInputs.cache
+/home/maks/Документы/dzgb/Программирование С#/Итоговая работа/Cod/obj/Debug/net6.0/Cod.AssemblyInfo.cs
+/home/maks/Документы/dzgb/Программирование С#/Итоговая работа/Cod/obj/Debug/net6.0/Cod.csproj.CoreCompileInputs.cache
+/home/maks/Документы/dzgb/Программирование С#/Итоговая работа/Cod/obj/Debug/net6.0/Cod.dll
+/home/maks/Документы/dzgb/Программирование С#/Итоговая работа/Cod/obj/Debug/net6.0/ref/Cod.dll
+/home/maks/Документы/dzgb/Программирование С#/Итоговая работа/Cod/obj/Debug/net6.0/Cod.pdb
+/home/maks/Документы/dzgb/Программирование С#/Итоговая работа/Cod/obj/Debug/net6.0/Cod.genruntimeconfig.cache
